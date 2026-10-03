@@ -1,0 +1,1 @@
+"Please read for_claude.md and execute the entire autonomous implementation pipeline inside app/ from Phase 1 through Phase 6."
